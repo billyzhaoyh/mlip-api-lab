@@ -1,2 +1,4 @@
 Flask
-azure-cognitiveservices-vision-computervision
+pytesseract
+pillow
+flask-restx
